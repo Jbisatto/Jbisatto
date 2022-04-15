@@ -22,3 +22,10 @@
 </div>
   
   
+
+<div  align="center"> 
+  
+  ![Snake animation](https://github.com/Jbisatto/Jbisatto/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
